@@ -8,4 +8,4 @@ GitHub Pages 设置使用 main 分支的根目录。首页改动走 feature 分�
 
 本地预览：`python3 -m http.server 8765 --bind 127.0.0.1`，然后打开 `http://127.0.0.1:8765/`。
 
-设计采用 frontend-design，由 Cursor 的 claude-opus-5-5-high 生成。首页仅使用五个既有公开路线入口，不复制其他项目的轨迹或个人数据。
+设计采用 frontend-design，由 Cursor 的 claude-opus-5-5-high 生成。首页仅使用已发布的公开路线入口，不复制其他项目的轨迹或个人数据。
