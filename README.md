@@ -4,6 +4,8 @@
 
 纯静态页面，无构建依赖、脚本或外部资源。`index.html` 维护路线链接，`style.css` 维护显示样式；各赛道仍由原项目独立发布。
 
+首页路线包括[剑门关 · 徒步](/JianmenPass-hike-2026-11-08/)。
+
 GitHub Pages 设置使用 main 分支的根目录。首页改动走 feature 分支与 PR，合入后由 Pages 发布；回退使用正常 revert PR。
 
 本地预览：`python3 -m http.server 8765 --bind 127.0.0.1`，然后打开 `http://127.0.0.1:8765/`。
